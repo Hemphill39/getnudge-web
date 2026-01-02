@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.nudge.app",
+        "appID": "YSV679CPR2.com.hemphilldevelopers.getnudge",
         "paths": [
           "/invite/*",
           "/contact/*",
@@ -14,7 +14,7 @@
   },
   "webcredentials": {
     "apps": [
-      "TEAMID.com.nudge.app"
+      "YSV679CPR2.com.hemphilldevelopers.getnudge"
     ]
   }
 }

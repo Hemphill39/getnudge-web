@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.nudge.app",
+      "package_name": "com.hemphilldevelopers.getnudge",
       "sha256_cert_fingerprints": [
-        "YOUR_SHA256_CERT_FINGERPRINT_HERE"
+        "92:52:38:41:B0:04:CB:06:DD:78:64:04:3A:E9:97:05:9E:90:C4:82:B7:92:D2:52:0C:E4:33:DA:CF:DB:79:A3"
       ]
     }
   }
