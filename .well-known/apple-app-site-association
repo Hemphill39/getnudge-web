@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID.com.nudge.app",
+        "paths": [
+          "/invite/*",
+          "/contact/*",
+          "/schedule/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "TEAMID.com.nudge.app"
+    ]
+  }
+}
